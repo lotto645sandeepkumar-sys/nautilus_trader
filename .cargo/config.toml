@@ -1,3 +1,4 @@
+south Korea lotto.6/45
 [target.'cfg(all())']
 rustflags = [
     # https://rust-lang.github.io/rust-clippy/master/index.html#drop_non_drop
